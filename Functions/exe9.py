@@ -24,7 +24,6 @@ print(list(pokemons.keys()))
 for name in pokemons:
     print(name)
 
-"""
 my = pokemons['Charmander']
 enemie = pokemons['Bulbasauro']
 
@@ -56,4 +55,3 @@ while enemie['hp'] > 0:
     if my['hp'] <= 0:
         print('VC perdeu')
         break
-"""
